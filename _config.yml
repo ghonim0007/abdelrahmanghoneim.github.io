@@ -17,7 +17,10 @@ description: >-
   Specialized in spatial analytics, web applications, and intelligent systems.
 
 # Fill in the protocol & hostname for your site
-url: "https://abdelrahmanghoneim.github.io"
+url: "https://ghonim0007.github.io"
+
+# The base URL of your site
+baseurl: "/abdelrahmanghoneim.github.io"
 
 github:
   username: ghonim0007
@@ -109,9 +112,6 @@ pwa:
       # - "/example"  # URLs match `<SITE_URL>/example/*` will not be cached by the PWA
 
 paginate: 10
-
-# The base URL of your site
-baseurl: ""
 
 # ------------ The following options are not recommended to be modified ------------------
 
